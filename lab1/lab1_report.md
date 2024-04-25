@@ -7,7 +7,7 @@ Author: Lebedev Fedor Alekseevich
 Lab: Lab1
 Date of create: 25.04.2024
 Date of finished: 
-Был создан service account с ролью storage admin
+Был создан service account с ролью storage admin  
 ![image](https://github.com/vindaslebe/2023_2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-u4125-lebedev_f_a/assets/165409365/9f7056e1-175d-4a9c-b4e1-11d9ba407568)
 Была создана виртуальная машина с machine type e2-micro в режиме spot. Был выбран свой созданный ранее service account.
 ![image](https://github.com/vindaslebe/2023_2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-u4125-lebedev_f_a/assets/165409365/4456ada4-23ef-4b99-9818-2e0edf3b08a4)
