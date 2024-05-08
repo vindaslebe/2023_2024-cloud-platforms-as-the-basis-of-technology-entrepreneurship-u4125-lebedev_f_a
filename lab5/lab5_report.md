@@ -26,16 +26,11 @@ Date of finished:
 6.3. При мердже ветки перемещаем тикет в Готово
 ![image](https://github.com/vindaslebe/2023_2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-u4125-lebedev_f_a/assets/165409365/7e24a903-a95e-418f-bd0b-1c81fb0126bc)
 
-7. Создаем тикет  
-[Link to video](https://youtu.be/WmJ-kDEX5VU)  
+7. Создаем тикет    
 8. Переместили задачу в спринт, начали спринт, настроили его согласно  
-[Link to video](https://youtu.be/7Lb8VSvHAcQ)
 9. Создаем на GitHub ветку, посвященную тикету, проверяем, что ее статус в Jira перешел в “В работе”  
-[Link to video](https://youtu.be/vZzp97bIHLw)
-10. Создали PR ветки в dev, проверили, что статус тикета в Jira перешел в On Check (OBS оборвал в конце результат, продолжение в следующем линке)  
-[Link to video](https://youtu.be/a2Apa2BdBnc)
+10. Создали PR ветки в dev, проверили, что статус тикета в Jira перешел в On Check 
 11. Приняли PR, проверили, что статус тикета - Готово  
-[Link to video](https://youtu.be/FmxdRnLCbfU)  
-![image](https://github.com/vindaslebe/2023_2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-u4125-lebedev_f_a/assets/165409365/244506bd-89fb-4a69-917a-5dc52ebe646a)
+[Link to video](https://youtu.be/VwJBRO_CMFY)  
 
 
